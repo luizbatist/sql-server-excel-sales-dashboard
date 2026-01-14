@@ -1,5 +1,9 @@
 # Adventure Works Internet Sales BI
 
+## 🖼️ Visão Geral do Relatório
+
+![Dashboard de Vendas - Adventure Works](images/dashboard_overview.png)
+
 ## 📊 Contexto do Projeto
 Projeto de Business Intelligence com foco na integração entre **SQL Server** e **Excel** para análise de vendas de internet da base **Adventure Works 2014**.
 
